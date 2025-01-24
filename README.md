@@ -18,3 +18,4 @@ Este proyecto consiste en el desarrollo de una **aplicación de escritorio** ori
 
 - **Interfaz de Usuario de Escritorio**: Desarrollo de una interfaz sencilla y accesible para el usuario, utilizando herramientas de desarrollo de aplicaciones de escritorio como **Windows Forms**.
 
+**Puede clonar proyecto**
